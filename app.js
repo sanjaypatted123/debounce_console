@@ -1,4 +1,4 @@
-
+//note : run only with commenting out the particular code
 
 // //simple debounce program 
 // function debounce(fn,delay){
